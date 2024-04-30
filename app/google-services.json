@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331021711425",
+    "project_id": "mvvmarchitecture-3378b",
+    "storage_bucket": "mvvmarchitecture-3378b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331021711425:android:e1496a0d984e06a5186ec0",
+        "android_client_info": {
+          "package_name": "com.vic.mvvmarchitecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GTu633e0gi3WL2fYe-VhK5ZBnm0QtN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
